@@ -4,7 +4,7 @@ public class HamroInternational {
 
 	public static void main(String[] args) {
 
-     System.out.println("Hamro International");
+     System.out.println("Hamro ghar");
 
 	}
 
